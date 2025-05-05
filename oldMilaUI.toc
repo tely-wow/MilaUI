@@ -1,0 +1,21 @@
+## Interface: 110100
+## Title: MilaUI
+## Notes: 
+## Author: Teliy and Mila
+## Version: 69
+## dependencies: ouf
+
+# Core Files
+HideElements.lua
+modules\Unitframes\elvui\Unitframes.lua
+modules\GUI\GUI.xml
+media\SharedMedia.lua
+##modules\Unitframes\elvui\elvui_updatecolor.lua
+##modules\BigDebuffsFix\Big_Debuffs_integration.lua
+##modules\Overshield\Overshield.lua
+modules\Unitframes\ouf\config.lua
+modules\Unitframes\ouf\MilaUIConfig.lua
+modules\Unitframes\ouf\sizeGUI.lua
+modules\Unitframes\ouf\player.lua
+modules\Unitframes\ouf\target.lua
+modules\Unitframes\ouf\updatecolor.lua

@@ -1,0 +1,36 @@
+## Interface: 110100
+## Title: MilaUI
+## Notes: Mila's custom UI
+## Author: Mila
+## Version: 69
+## SavedVariables: MilaUI_DB
+
+# Libraries
+Libs\Ace3\LibStub\LibStub.lua
+Libs\Ace3\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\Ace3\AceAddon-3.0\AceAddon-3.0.lua
+Libs\Ace3\AceConsole-3.0\AceConsole-3.0.lua
+Libs\Ace3\AceDB-3.0\AceDB-3.0.lua
+Libs\Ace3\AceDBOptions-3.0\AceDBOptions-3.0.lua
+Libs\Ace3\AceConfig-3.0\AceConfig-3.0.xml
+Libs\Ace3\AceGUI-3.0\AceGUI-3.0.xml
+Libs\ouf\ouf.lua
+Libs\ouf\ouf.xml
+
+# Core Files
+HideElements.lua
+##modules\Unitframes\elvui\Unitframes.lua
+##modules\GUI\GUI.xml
+media\SharedMedia.lua
+##modules\Unitframes\elvui\elvui_updatecolor.lua
+modules\BigDebuffsFix\Big_Debuffs_integration.lua
+##modules\Overshield\Overshield.lua
+##modules\Unitframes\SUF\suf.lua
+##modules\Config\ConfigMenu.lua
+modules\Unitframes\ouf\config.lua
+modules\Unitframes\ouf\MilaUIconfig.lua
+modules\Unitframes\ouf\player.lua
+modules\Unitframes\ouf\sizeGUI.lua
+modules\Unitframes\ouf\updatecolor.lua
+modules\Unitframes\ouf\target.lua
+
